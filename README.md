@@ -43,8 +43,8 @@ Visual representation of the integrated mini games displayed on the LED matrix:
 
 ## Integrated Game List
 
-1. **Game 1: Snake** – Classic snake implementation featuring red pellet collection, incremental body lengthening, and self/wall collision detection.
-2. **Game 2: Pong** – Arcade paddle game with a bouncing ball that dynamically accelerates as the score increases, played against a wall or an automated wall system.
+1. **Game 1: Snake** – Classic snake implementation featuring red pellet collection, incremental body lengthening, and self collision detection.
+2. **Game 2: Pong** – Arcade paddle game with a bouncing ball that dynamically accelerates as the score increases, played against a walls.
 3. **Game 3: Shooter** – Defense game where the player controls a ship on the bottom row of the matrix to shoot down falling targets that spawn at an increasing rate.
 4. **Game 4: Flappy Bird** – Navigating through randomized gaps in approaching obstacles utilizing a gravity physics model with physics jumps triggered by directional inputs.
 5. **Game 5: Tetris** – Complete implementation of Tetris featuring all 7 standard tetromino shapes, rotations, wall kicks, and automatic line clearing.
@@ -67,6 +67,6 @@ The console is controlled via a set of built-in push buttons configured with int
 
 ## Original Project Acknowledgments
 
-This software was developed specifically for the **Logic** hardware platform designed by the **RoboticsBrno** community.
+This software was developed specifically for the **Logic V1** hardware platform designed by the **RoboticsBrno** community.
 * Original hardware repository: [RoboticsBrno/RB3205-Logic](https://github.com/RoboticsBrno/RB3205-Logic)
 * Official board documentation: [logic.robotikabrno.cz](https://logic.robotikabrno.cz/)
