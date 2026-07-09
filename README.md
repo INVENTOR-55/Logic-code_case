@@ -11,7 +11,7 @@ The project transforms a 10x10 LED matrix into a portable gaming console featuri
 ### Hardware and Case
 The appearance of the assembled board and the enclosure designed for portable gaming.
 
-| 00 - Inside the case | 09 - Closed case |
+| 00 - Inside the case | 09 - Case |
 | :---: | :---: |
 | <img src="images/00.jpg" width="350"> | <img src="images/09.jpg" width="350"> |
 
